@@ -6,8 +6,6 @@ Nothing serious, it's just a fun project on my spare time. If you are lazier tha
 
 Live demo: http://creativealiens.com/demo/lazystrap/
 
-View the post on dribbble: http://drbl.in/mVHv
-
 
 Thanks and Credits!
 ---------------------------
@@ -22,7 +20,7 @@ If you like this template, you may like our other works as well.
 Keep your eyes on http://creativealiens.com
 
 Or follow me on
-https://dribbble.com/srizon
-https://www.facebook.com/MamunSrizon
-https://twitter.com/MamunSrizon
+- https://dribbble.com/srizon
+- https://www.facebook.com/MamunSrizon
+- https://twitter.com/MamunSrizon
 
