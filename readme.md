@@ -11,10 +11,10 @@ View the post on dribbble: http://drbl.in/mVHv
 
 Thanks and Credits!
 ---------------------------
-<a href ="http://getbootstrap.com/">Bootstrap</a>>
-<a href ="https://rickypierce.deviantart.com/art/Jon-Snow-and-Ghost-Game-of-Thrones-Fan-Art-687361276">rickypierce for Jon Snow Artwork</a>>
-<a href ="https://fonts.google.com/">Google Fonts</a>>
-<a href ="http://fontawesome.io/">Font Awesome Icons</a>>
+- <a href ="http://getbootstrap.com/">Bootstrap</a>
+- <a href ="https://rickypierce.deviantart.com/art/Jon-Snow-and-Ghost-Game-of-Thrones-Fan-Art-687361276">rickypierce for Jon Snow Artwork</a>
+- <a href ="https://fonts.google.com/">Google Fonts</a>
+- <a href ="http://fontawesome.io/">Font Awesome Icons</a>
 
 
 
